@@ -1,0 +1,10 @@
+Oct 10 10:00:01 server sshd[123]: Failed password for root from 192.168.1.105 port 22 ssh2
+Oct 10 10:00:02 server sshd[123]: Failed password for root from 192.168.1.105 port 22 ssh2
+Oct 10 10:00:03 server sshd[123]: Failed password for root from 192.168.1.105 port 22 ssh2
+Oct 10 10:05:00 server sudo:  hacker : TTY=pts/0 ; PWD=/home/hacker ; USER=root ; COMMAND=/bin/cat /etc/shadow
+Oct 10 10:10:00 server useradd[456]: new user: name=eviladmin, UID=1002, GID=1002, home=/home/eviladmin, shell=/bin/bash
+Oct 10 10:00:01 server sshd[123]: Failed password for root from 192.168.1.105 port 22 ssh2
+Oct 10 10:00:02 server sshd[123]: Failed password for root from 192.168.1.105 port 22 ssh2
+Oct 10 10:00:03 server sshd[123]: Failed password for root from 192.168.1.105 port 22 ssh2
+Oct 10 10:05:00 server sudo:  hacker : TTY=pts/0 ; PWD=/home/hacker ; USER=root ; COMMAND=/bin/cat /etc/shadow
+Oct 10 10:10:00 server useradd[456]: new user: name=eviladmin, UID=1002, GID=1002, home=/home/eviladmin, shell=/bin/bash
