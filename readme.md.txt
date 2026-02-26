@@ -22,7 +22,7 @@ It acts as a security camera for your computer's internal logs. It monitors syst
 2.  **Regex Parsing:** Extracts IP addresses and users from logs.
 3.  **State Management:** Uses a sliding time window for tracking failures.
 
----
+-----------------------------------------------------
 
 ## 🚀 How to Run
 
@@ -39,8 +39,7 @@ To monitor real Linux logs:
 1. Open py_hids.py
 2. Change LOG_FILE_TO_WATCH to /var/log/auth.log
 3. Run with sudo: sudo python py_hids.py
+------------------------------------------------------
 
----
-
-## ⚠️ Disclaimer
+# ⚠️ Disclaimer:
 This tool is for educational purposes.
