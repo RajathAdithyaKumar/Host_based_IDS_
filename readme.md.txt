@@ -1,9 +1,9 @@
-#  Host-Based Intrusion Detection System (HIDS)
+#  Host-Based Intrusion Detection System (HIDS).
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Security](https://img.shields.io/badge/Security-IDS-red?style=for-the-badge)
 
-## Project Overview
+#project Overview
 This is a lightweight, signature-based Intrusion Detection System (IDS) built entirely in Python. 
 
 It acts as a security camera for your computer's internal logs. It monitors system files in real-time, analyzes traffic patterns using Regular Expressions (Regex), and triggers alerts when it detects malicious activity like brute-force attacks or suspicious command execution.
@@ -24,7 +24,7 @@ It acts as a security camera for your computer's internal logs. It monitors syst
 
 -----------------------------------------------------
 
-## 🚀 How to Run
+#How to Run
 
 ### 1. Prerequisites
 You need Python 3 installed.
@@ -41,5 +41,5 @@ To monitor real Linux logs:
 3. Run with sudo: sudo python py_hids.py
 ------------------------------------------------------
 
-# ⚠️ Disclaimer:
+#Disclaimer:
 This tool is for educational purposes.
