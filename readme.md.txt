@@ -1,4 +1,4 @@
-#  Host-Based Intrusion Detection System (HIDS).
+Host-Based Intrusion Detection System (HIDS).
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Security](https://img.shields.io/badge/Security-IDS-red?style=for-the-badge)
@@ -9,10 +9,10 @@ This is a lightweight, signature-based Intrusion Detection System (IDS) built en
 It acts as a security camera for your computer's internal logs. It monitors system files in real-time, analyzes traffic patterns using Regular Expressions (Regex), and triggers alerts when it detects malicious activity like brute-force attacks or suspicious command execution.
 
 **Key Features:**
-* **Real-time Monitoring:** Continuously watches log files.
-* **Brute Force Detection:** Tracks failed login attempts.
-* **Signature Detection:** Identifies known malicious commands (e.g., `rm -rf`).
-* **Simulation Mode:** Includes a built-in attack generator.
+**Real-time Monitoring:** Continuously watches log files.
+**Brute Force Detection:** Tracks failed login attempts.
+**Signature Detection:** Identifies known malicious commands (e.g., `rm -rf`).
+**Simulation Mode:** Includes a built-in attack generator.
 
 ---
 
